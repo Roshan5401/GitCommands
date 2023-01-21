@@ -1,5 +1,5 @@
 # GitCommands
-Assignments Associated with the Git - Commands Project will be present in these repository.
+Assignments Associated with the Git - Commands Project will be present in this repository.
 
 
 Following are the screenshots of the implementation
