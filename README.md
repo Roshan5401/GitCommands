@@ -13,9 +13,14 @@ creating groceries.txt
 ![Screenshot (44)](https://user-images.githubusercontent.com/68680320/213860609-a43bf60a-9c91-4403-9700-212b509f3acf.png)
 commiting with the following message the picture is given below
 ![Screenshot (45)](https://user-images.githubusercontent.com/68680320/213860610-8cd532fa-53d8-49bb-a2d6-88d7401849cd.png)
+Modifying both of the txt files
 ![Screenshot (46)](https://user-images.githubusercontent.com/68680320/213860611-00381dc1-cb85-4a9d-88e3-2598d332868f.png)
+Commit of groceries txt only
 ![Screenshot (47)](https://user-images.githubusercontent.com/68680320/213860613-86384747-a642-4026-ab49-0bdb515292b3.png)
+Commit of yard.txt
 ![Screenshot (48)](https://user-images.githubusercontent.com/68680320/213860614-c176c267-ad8d-4289-9460-b44233aba761.png)
+Modify both of the txt files and ommit both at the same time
 ![Screenshot (49)](https://user-images.githubusercontent.com/68680320/213860615-a2c70c11-5520-4047-b850-a25f6a12c864.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/68680320/213860616-b10db9f6-4381-433b-a748-a80087bcc8ad.png)
+git log-showing all the commit made
 ![Screenshot (51)](https://user-images.githubusercontent.com/68680320/213860618-f2507904-e270-4f94-b119-401c8b917809.png)
